@@ -1,0 +1,318 @@
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:600');
+header{
+	background-color: #fff;
+	border-bottom: 1px solid #fff;
+	
+	width:100%;
+	z-index: 10;
+	padding-top:0;
+}
+body{
+	font-family: 'Raleway', sans-serif;
+	background-image: url(../img/Fondo.png); 
+	background-position: center; 
+	background-size: cover;
+	background-repeat: repeat;
+}
+.menu{
+  padding-left: 85px;
+  padding-top: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 3px;
+  line-height: 1.25;
+  width: 100%;
+  font-weight: 900;
+  text-align: center;
+}
+.menu li {
+  display: inline-block;
+}
+.menu a {
+  display: block;
+  color: #d02c7d;
+}
+
+
+#seq-image{
+	background-image: url( ../img/44670763_698613887187863_5250141355178459136_o.png);
+	background-size:cover;
+	background-repeat:repeat-x;
+	background-position:center;
+    background-attachment:fixed;
+	padding-top: 140px;
+	padding-bottom: 200px;
+	color: white;
+}
+
+#redes .icon{
+	border: 1px solid #fff;
+	width: 3px;
+	height: 3px;
+	border-radius: 100%;
+}
+.img-flui{
+	padding-top:2px ;
+	width:30px;
+	height: 30px;
+}
+#sec-bio{
+	background:#b7cd3c;
+	font-family: "Arial", sans-serif;
+	color: #fff;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: inherit;
+}
+#sec-bio h3{
+	font-size: 18px ;
+	letter-spacing: 0 ;
+	width: 100%;
+    font-weight:700;
+	padding-left: 20px;
+}
+#sec-bio h5{
+	font-size: 20px ;
+	color: white;
+	letter-spacing: 0 ;
+	padding-left: 20px;
+}
+
+.titulo{
+	color:#d02c7d;
+	padding-top: 40px;
+	padding-bottom: 1px;
+	font-weight:700;
+}
+#sec-productos p{
+	padding-bottom: 20px;
+}
+#titulo h5{
+	color: #d02c7d;
+	font: bold;
+	font-size: 20px;
+	text-align: left;
+	line-height: 1.25;
+    width: 100%;
+    font-weight:700;
+	
+}
+.seq-espacio{
+	margin: 30px 0;
+}
+#seq-tittle h3{
+	font-size: 18px;
+	font-style: italic;
+	margin-top: 10px;
+	text-align: center;
+	color: #111;
+	font-weight: 600;
+	font-family: bv;
+}
+#seq-tittle p{
+	text-align: center;
+	font-size: 12px;
+}
+.sec-locales{
+	padding-top: 40px;
+	padding-bottom: 1px;
+}
+#locales h5{
+	color: #d02c7d;
+	font: bold;
+	font-size: 20px;
+	text-align: left;
+	line-height: 1.25;
+    width: 100%;
+    font-weight:700;
+	
+}
+
+#sec-locales .bg-image{
+	background-image: url(  ../img/21317976_471473229901931_7857612165105387416_n.png);
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size:contain;
+	margin-left: 30px;
+}
+#sec-locales .sec-espacio{
+	padding: 50px 30px;
+}
+#sec-locales h3{
+	font-size: 20px;
+	color: #d02c7d;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	font: bold;
+padding-bottom: 20px; 
+	padding-top: 20px;
+	text-align: center;
+	
+}
+#sec-locales h2{
+	font-size: 20px;
+	color: #d02c7d;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	font: bold;
+}
+#sec-locales h2{
+	font-size: 20px;
+	color: #d02c7d;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	font: bold;
+	text-align: center;
+	padding-bottom: 20px; 
+	padding-top: 20px; 
+}
+#sec-locales h4{
+	font-size: 15px;
+	color:#d02c7d ;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	font: bold;
+}
+#sec-contact{
+	margin-top: 20px;
+	background-color: #FFFFFF;
+}
+#sec-contact h2{
+	font-size: 20px;
+	color: #d02c7d;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	font: bold;
+	text-align: center;
+	padding-bottom: 10px; 
+	padding-top: 20px; 
+}
+#sec-contact h3{
+	font-size: 17px;
+	color: #000;
+	text-align: center;
+	padding-bottom: 10px; 
+	
+}
+.btn-transparent{
+	text-align: center;
+    background: #FFE6E6;
+	font-size: 12px ;
+	letter-spacing: 1px ;
+	text-transform: uppercase;
+	padding: 6px 40px;
+	margin-top: 10px ;
+	border: 1px solid #F2B3B4;
+}
+.btn-transparent:hover{
+	background-color: #fff;
+	}
+#sec-mision{
+	padding: 50px 0;
+	color: #000;
+	text-align: justify;
+	background: #FFFFFF;
+	margin: 50px;
+}
+#sec-mision h2{
+	color: #d02c7d;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 25px;
+	padding: 50px 0;
+		
+}
+#sec-mision h1{
+	color: #d02c7d;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 25px;
+	margin: 10PX 0;
+	padding-top: 50px;
+}
+#sec-mision h3{
+	text-align: center;
+	font-size: 17px;
+	padding-bottom: 10px;
+	
+}
+#sec-productos{
+	color: #d02c7d;
+	text-transform: uppercase;
+	margin: 50px;
+	text-align: center;
+}
+#sec-productos h2{
+	font-size: 25px;
+}
+#sec-productos p{
+	font-size: 15px;
+	color: #000;
+	text-transform: none;
+}
+.productos{
+margin-top: 10px;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+}
+.prductos,
+.productos{
+	position: relative;
+}
+.overlayFade{
+    height: 100%;
+    width: 100%;
+    top:0;
+    left:0;
+    background-color: rgba(251,193,189,0.70);
+}
+.overlay {
+    position: absolute;
+	opacity: 0;
+    transition:all .3s ease-in;
+    background-color: rgba(251,193,189,0.70);
+}
+.prductos:hover .overlay,.prductos:hover .overlayFade {
+    opacity: 1;
+}
+.productos:hover .overlay,.productos:hover .overlayFade {
+    opacity: 1;
+}
+#footer-menu{
+	font-size: 15px;
+	text-align: center;
+	padding-top: 40px;
+	margin-top: 10px;
+	background-color: #6abed4;
+	color: #FFF;
+	
+}
+#footer-menu h3{
+	font-size: 12px;
+	text-transform: uppercase;
+	border-bottom: 1px dotted #666;
+	letter-spacing: 1px;
+	padding-bottom: 5px;
+}
+#footer-menu ul{
+	list-style: none;
+}
+#footer-menu ul a{
+	color: #fff;	
+}
+#footer-menu ul a:hover{
+	color: #d02c7d;	
+}
